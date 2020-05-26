@@ -1,0 +1,11 @@
+{
+  "name": "web-shop",
+  "version": "0.0.0",
+  "description": "webShop",
+  "main": "app.js",
+  "scripts": {"start":"app.js"},
+  "author": {
+    "name": ""
+
+  }
+}
